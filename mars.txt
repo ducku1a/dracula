@@ -1,3 +1,6 @@
 cold and dry, but everything is my favourite colour.
+<<<<<<< HEAD
 The two moons may be a problem for the werewolf!
 The mummy will like the lack of humidity.
+=======
+>>>>>>> parent of bdbf419... Added concerns about Wolfman
